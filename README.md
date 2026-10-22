@@ -1,3 +1,5 @@
+*[English version below](#looque-privacy-policy)*
+
 # Политика конфиденциальности Looque
 
 Действует с 22 октября 2026 года.
@@ -21,3 +23,29 @@ Looque каждое утро подсказывает, что надеть из 
 **Возраст.** Приложение для тех, кому есть 18: этого требуют условия Google для Gemini API.
 
 **Изменения.** Если политика изменится, новая версия появится по этому же адресу с новой датой.
+
+---
+
+# Looque Privacy Policy
+
+Effective October 22, 2026.
+
+Looque suggests what to wear each morning from your own wardrobe and shows the outfit on a person. The app is made by Dmitriy Bagaev. Contact: feedback@bagaev.design.
+
+**What stays on your phone.** Your items and their photos, the people you try outfits on and their photos, finished try-ons and settings. All of this is stored in the app on your phone. The app has no accounts and no server of its own. If the iCloud copy is turned on in the app, the same data is kept in your personal iCloud: only you can access it, the developer cannot.
+
+**What leaves your phone, and why.**
+
+1. *Try-on — Google Gemini API.* Only after you allow it, and only when you ask for a picture yourself («Примерить» — Try on, «Ещё раз» — Again, a portrait). Sent are photos of the outfit's items and the portrait of the person the outfit is tried on. When you add yourself — your full-length photo and, if you added one, a close-up of your face. After a try-on, the picture itself is sent to Google too, to find the items on it. Under Google's terms for the paid Gemini API, requests are not used to improve Google's products; Google keeps them for a limited time to detect violations of its policies. Google's terms: https://ai.google.dev/gemini-api/terms
+2. *Weather.* Your approximate location (about 1 km) or the city you chose goes to Apple Weather, and if it does not answer, to Open-Meteo or MET Norway. Apple works out the city name from the location. Searching for a city by name goes through Open-Meteo.
+3. *TestFlight.* If you send feedback or a crash report, Apple passes it on to the developer.
+
+**What there isn't.** No ads, no analytics, no tracking you across other apps, no selling your data or passing it to anyone else.
+
+**Permissions.** Camera — to photograph an item or yourself. Photos — to pick a picture. Location — the weather where you are. iPhone asks for each one separately, and you can turn any of them off in Settings.
+
+**How to delete your data.** Deleted things wait 30 days in «Недавно удалённые» (Recently Deleted) and are then erased automatically; you can also erase them right away from there. Deleting the app erases everything on the phone except the try-on spending counter: it holds only monthly totals and is kept in the iPhone keychain, so the monthly limit does not start over when the app is reinstalled. You can delete the iCloud copy in iPhone Settings → your name → iCloud → Storage.
+
+**Age.** The app is for people aged 18 and over, as Google's terms for the Gemini API require.
+
+**Changes.** If this policy changes, the new version will appear at this same address with a new date.
